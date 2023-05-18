@@ -1,0 +1,21 @@
+﻿* {
+  box-sizing: border-box;
+}
+
+#wrapper {
+	width: 100%;
+	max-width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#header {
+	padding: 10%;
+	height: 195px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
